@@ -356,3 +356,6 @@ a:hover { color: var(--accent); }
   color: #8E98AE;
 }
 .contact :focus-visible { outline-color: var(--paper); }
+
+/* Плашка Netlify, которую хостинг вставляет на бесплатном тарифе */
+#nl-badge-frame { display: none !important; }
