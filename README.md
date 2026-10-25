@@ -2,7 +2,7 @@
 
 Одностраничный сайт-портфолио: HTML, CSS и немного JavaScript, без сборки.
 
-Сайт: https://chaser-portfolio.netlify.app
+Сайт: https://web-portfolio-ru.netlify.app
 
 ## Посмотреть локально
 
