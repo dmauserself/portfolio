@@ -2,7 +2,7 @@
 
 Одностраничный сайт-портфолио: HTML, CSS и немного JavaScript, без сборки.
 
-Сайт: https://web-portfolio-ru.netlify.app
+Сайт: https://web-portfolio-08.netlify.app
 
 ## Посмотреть локально
 
